@@ -1,0 +1,5 @@
+1 suthanon 2019/04/05！！23:46:53 95,_ling_Road_8400_Tangkak PayByCard-151089423339 kk0424 Completed Sundae_Cone-3-Mc_Chicken-2 33.0
+2 suthanon 2019/04/05！！23:47:50 95,_ling_Road_8400_Tangkak PayByCard-151089423339 kk0424 Completed Sundae_Cone-3-Mc_Chicken-2 33.0
+3 suthanon 2019/04/07！！15:35:50 5,_Jalan_Waja_15800_Batu_Pahat PayByCash-0 kk0424 Completed Mc_Chicken-3-Sundae_Cone-1 46.0
+4 kewei1010 2019/04/07！！16:43:36 No.59_Jalan_Wawasan_4_Taman_Wawasan_2 PayByCard-151089423339 kk0424 Completed Sundae_Cone-8-Sundae_Cone-2 10.0
+5 suthanon 2019/04/07！！19:07:03 5,_Jalan_Waja_15800_Batu_Pahat PayByCash-0 kk0424 Completed Mc_Chicken-10 150.0
