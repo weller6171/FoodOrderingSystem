@@ -1,0 +1,9 @@
+I didn't own the pictures in this programs
+A simple simulation of ordering process....
+a) Customer can register account.
+b) After login, customer can make order through the menu
+c) Admin acc will then approve the order
+d) Staff will finish the order and assuming the deliver process is completed by changing the status of the order.
+
+OOP and JFrame is used in this program.
+duration : In 1 week
